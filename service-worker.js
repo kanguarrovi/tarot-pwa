@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tarot-pwa/precache-manifest.3c83f56fa5651e1d121d7ce82e8a1d8a.js"
+  "/tarot-pwa/precache-manifest.41c241bfaa598f536b23ad8c37bf3de2.js"
 );
 
 self.addEventListener('message', (event) => {

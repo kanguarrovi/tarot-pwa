@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b63a146b075b87382adb1353caa4dd68",
+    "revision": "8b2cbb175a61bb2927fd7ebb7c283ef7",
     "url": "/tarot-pwa/index.html"
   },
   {
