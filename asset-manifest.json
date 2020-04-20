@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tarot-pwa/static/css/main.d1b05096.chunk.css",
+    "main.js": "/tarot-pwa/static/js/main.7f160b25.chunk.js",
+    "main.js.map": "/tarot-pwa/static/js/main.7f160b25.chunk.js.map",
+    "runtime-main.js": "/tarot-pwa/static/js/runtime-main.64240f90.js",
+    "runtime-main.js.map": "/tarot-pwa/static/js/runtime-main.64240f90.js.map",
+    "static/js/2.9fe72934.chunk.js": "/tarot-pwa/static/js/2.9fe72934.chunk.js",
+    "static/js/2.9fe72934.chunk.js.map": "/tarot-pwa/static/js/2.9fe72934.chunk.js.map",
+    "index.html": "/tarot-pwa/index.html",
+    "precache-manifest.7358f96f71494d9b2efc826f4e938630.js": "/tarot-pwa/precache-manifest.7358f96f71494d9b2efc826f4e938630.js",
+    "service-worker.js": "/tarot-pwa/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/tarot-pwa/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.9fe72934.chunk.js.LICENSE.txt": "/tarot-pwa/static/js/2.9fe72934.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tarot-pwa/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64240f90.js",
+    "static/js/2.9fe72934.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.7f160b25.chunk.js"
+  ]
+}
